@@ -1,4 +1,4 @@
-# reikoncalculator-
+# Calculator
 Basic Calculator 
 
 Plug it into a javascript console and go nuts. 
